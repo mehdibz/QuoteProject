@@ -1,0 +1,6 @@
+ca\quotemedia\model\Quote.class
+ca\quotemedia\services\ResponseObject$Builder.class
+ca\quotemedia\services\ResponseObject.class
+ca\quotemedia\dao\DBConnection.class
+ca\quotemedia\services\QuoteServices.class
+ca\quotemedia\dao\QuoteFacade.class
